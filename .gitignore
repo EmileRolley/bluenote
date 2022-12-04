@@ -3,3 +3,4 @@ lib/bs
 .bsb.lock
 .merlin
 .expo
+*.bs.js
