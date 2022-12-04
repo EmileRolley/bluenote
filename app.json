@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo1.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.emilerolley.bluenote"
     },
     "web": {
       "favicon": "./assets/favicon.png"

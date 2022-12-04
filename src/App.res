@@ -19,7 +19,7 @@ let styles = {
       (),
     ),
     "logo": imageStyle(~width=dp(40.0), ~height=dp(40.0), ~borderRadius=5., ()),
-    "text": textStyle(~color=Colors.text, ()),
+    "text": textStyle(~color=Colors.text, ~fontSize=16., ~marginTop=dp(5.), ()),
     "subtitle": textStyle(~fontStyle=#italic, ()),
   })
 }
